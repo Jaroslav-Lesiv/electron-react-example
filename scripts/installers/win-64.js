@@ -30,7 +30,7 @@ function getInstallerConfig () {
   
 
   return Promise.resolve({
-    appDirectory: path.join(entryPath, `${NAME}-win64-x64/`),
+    appDirectory: path.join(entryPath, `${NAME}-win32-x64/`),
     authors: `${AUTHOR}`,
     owners:  `${OWNERS}`,
     version: `${VERSION}`,

@@ -26,7 +26,7 @@
     "react",
     "electron-react"
   ],
-  "author": "GitHub",
+  "author": "Jaroslav_Lesiv",
   "license": "CC0-1.0",
   "devDependencies": {
     "autoprefixer": "7.1.6",

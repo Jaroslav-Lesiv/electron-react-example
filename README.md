@@ -26,11 +26,7 @@ Features System: Fedora.
 
 ## Setup
 * Change `config/default.js`
-* Chose system
-* `npm i -D `
-* generate key using `php artisan key:generate`
-* `php artisan migrate`
-* `npm install electron-installer-*` 
+* Chose system and `npm i -D electron-installer-*`
 * Make sure that you have already installed  ([Node.JS](https://nodejs.org/en/)).
 
 ## Npm commands
